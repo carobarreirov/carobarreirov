@@ -3,9 +3,9 @@
 - 🔭 I’m currently working ...
   - as Solution Architect @RedHat
   - as course leader and learning facilitator @MITxPro Coding Certificate
-  - as freelance PM and Consultant @TechStartUps
+  - as freelance PM and Consultant
 - 🌱 I’m currently learning ...
-  - DevOps applications
+  - DevOps Cloud applications
   - Automatization tools
 - 💬 Ask me about ...
   - Web Development
