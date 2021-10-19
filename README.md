@@ -19,6 +19,6 @@
   - cbv@mit.edu
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=carobarreirov&show_icons=true alt=carobarreirov />
+	
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carobarreirov&show_icons=true&locale=en&layout=compact" alt="carobarreirov" />
 </p>
