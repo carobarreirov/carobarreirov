@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="caro barreiro" height="20" width="20" /></a>
 <a href="https://twitter.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="caro barreiro" height="20" width="20" /></a>
-<a href="https://carobarreirov.in" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="caro barreiro" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caro barreiro" height="20" width="20" /></a>
 </p>
 
 - 🔭 I’m currently working ...
@@ -18,9 +18,7 @@
 - 📫 How to reach me: 
   - cbv@mit.edu
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carobarreirov&show_icons=true&locale=en&layout=compact" alt="carobarreirov" /></p>
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=carobarreirov&show_icons=true alt=carobarreirov />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carobarreirov&show_icons=true&locale=en&layout=compact" alt="carobarreirov" />
 </p>
