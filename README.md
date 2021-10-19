@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working ...
-  - as Solution Architect @RedHat <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apnavacancy.com%2Fred-hat-jobs-software-engineer-jobs-india%2F&psig=AOvVaw03vM-PisRDwAHn5zoSSOQi&ust=1634760892039000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDwuISl1_MCFQAAAAAdAAAAABAJ" style="height: 100px; width:100px;"/>
+  - as Solution Architect @RedHat <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apnavacancy.com%2Fred-hat-jobs-software-engineer-jobs-india%2F&psig=AOvVaw03vM-PisRDwAHn5zoSSOQi&ust=1634760892039000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDwuISl1_MCFQAAAAAdAAAAABAJ" style="height: 50px; width:100px;"/>
   - as course leader and learning facilitator @MITxPro Coding Certificate
   - as freelance PM and Consultant @TechStartUps
 - 🌱 I’m currently learning ...
