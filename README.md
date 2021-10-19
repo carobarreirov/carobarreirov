@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working ...
-  - as Solution Architect @RedHat 
+  - as Solution Architect @RedHat https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fes%2Ficono%2Fredhat%2F130844&psig=AOvVaw03vM-PisRDwAHn5zoSSOQi&ust=1634760892039000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDwuISl1_MCFQAAAAAdAAAAABAD
   - as course leader and learning facilitator @MITxPro Coding Certificate
   - as freelance PM and Consultant @TechStartUps
 - 🌱 I’m currently learning ...
