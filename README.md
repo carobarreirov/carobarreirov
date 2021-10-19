@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Caro Barreiro
+<p align="center">
+<a href="https://github.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="caro barreiro" height="20" width="20" /></a>
+<a href="https://twitter.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="caro barreiro" height="20" width="20" /></a>
+<a href="https://carobarreirov.in" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="caro barreiro" height="20" width="20" /></a>
+</p>
 
 - 🔭 I’m currently working ...
   - as Solution Architect @RedHat
@@ -16,4 +21,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carobarreirov&show_icons=true&locale=en&layout=compact" alt="carobarreirov" /></p>
-<p align="left"> <a href="https://twitter.com/carobarreirov" target="blank"><img src="https://img.shields.io/twitter/follow/carobarreirov?logo=twitter&style=for-the-badge" alt="carobarreirov" /></a> </p>
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=elangosundar&show_icons=true alt=Elangovan />
+</p>
