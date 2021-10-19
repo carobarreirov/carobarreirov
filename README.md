@@ -39,6 +39,3 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs username=carobarreirov&show_icons=true&locale=en&layout=compact" alt="carobarreirov" />
-</p>
