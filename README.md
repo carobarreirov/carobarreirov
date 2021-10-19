@@ -9,9 +9,6 @@
   - as Solution Architect @RedHat
   - as course leader and learning facilitator @MITxPro Coding Certificate
   - as freelance PM and Consultant
-- 🌱 I’m currently learning ...
-  - DevOps Cloud applications
-  - Automatization tools
 - 💬 Ask me about ...
   - Web Development
   - Agile and PM practices
