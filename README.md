@@ -14,6 +14,7 @@
   - Agile and PM practices
 - 📫 How to reach me: 
   - cbv@mit.edu
+  - Emeritus Feedback: https://airtable.com/shrRXu5Q2qUIIoQvC 
 
 ### Languages
 
