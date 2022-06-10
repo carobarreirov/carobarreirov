@@ -8,14 +8,13 @@
 - 🔭 I’m currently working ...
   - as Solution Architect @RedHat
   - as course leader and learning facilitator @MITxPro Coding Certificate
+  - as academic expert for @Ubitsdev
   - as freelance PM and Consultant
 - 💬 Ask me about ...
   - Web Development
   - Agile and PM practices
 - 📫 How to reach me: 
   - cbv@mit.edu
-  - [US Emeritus Feedback](https://airtable.com/shrRXu5Q2qUIIoQvC)
-  - [LATAM Emeritus Feedback](https://airtable.com/shr4xlAD8nhwoEfkd)
 
 ### Languages
 
