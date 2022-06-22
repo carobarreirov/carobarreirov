@@ -23,11 +23,10 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=FAF4F8)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FAF4F8&color=BF656A)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FAF4F8&color=BF656A)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=FAF4F8&color=BF656A)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=FAF4F8&color=BF656A)
 
 ### Technologies
 
