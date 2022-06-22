@@ -21,7 +21,6 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express&logoColor=DB979F)
 ![MongoDb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb&logoColor=DB979F)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&logoColor=DB979F)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=DB979F)
   
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=DB979F)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=DB979F)
