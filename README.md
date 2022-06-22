@@ -41,6 +41,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
-[![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&theme=graywhite&title_color=DB979F&icon_color=BF656A)](https://github.com/carobarreirov/github-readme-stats)
+[![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&theme=graywhite&title_color=F6A2AC&icon_color=CF6168)](https://github.com/carobarreirov/github-readme-stats)
   
  </div>
