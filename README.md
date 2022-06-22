@@ -5,9 +5,6 @@
 <a href="https://github.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="caro barreiro" height="20" width="20" /></a>
 <a href="https://twitter.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="caro barreiro" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/carobarreirov/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caro barreiro" height="20" width="20" /></a>
-<a href="https://www.youtube.com/user/carobarreirov" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FAF4F8&color=BF656A)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FAF4F8&color=BF656A)
