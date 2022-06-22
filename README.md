@@ -23,7 +23,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=DB979F)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=DB979F)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=DB979F)
-![OpenShift](https://img.shields.io/badge/-Openshift-000?&logo=Kubernetes&logoColor=DB979F)
   
 [![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&title_color=DB979F&icon_color=CF6168)](https://github.com/carobarreirov/github-readme-stats)
   
