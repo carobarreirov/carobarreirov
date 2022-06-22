@@ -42,4 +42,4 @@
 - 📫 How to reach me: 
   - cbv@mit.edu
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&color=0:EEFF00,100:a82da8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0,2,2,2,2,3" />
