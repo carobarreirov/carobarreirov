@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Hello there. I'm Caro Barreiro
 <p align="center">
 <a href="https://github.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="caro barreiro" height="20" width="20" /></a>
@@ -36,4 +38,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=carobarreirov&show_icons=true&line_height=30&include_all_commits=true" />](https://github.com/carobarreirov)
+[![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&theme=)](https://github.com/carobarreirov/github-readme-stats)
+  
+ </div>
