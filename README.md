@@ -12,6 +12,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=FAF4F8&color=BF656A)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=FAF4F8&color=BF656A)
 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=DB979F)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=DB979F)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=DB979F)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=DB979F)
@@ -19,8 +20,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=DB979F)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=DB979F)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&logoColor=DB979F)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&logoColor=DB979F)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch&logoColor=DB979F)
 
 [![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&title_color=DB979F&icon_color=CF6168)](https://github.com/carobarreirov/github-readme-stats)
   
