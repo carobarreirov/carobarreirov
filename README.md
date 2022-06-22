@@ -36,4 +36,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
-
+```
+![Visitor Count](https://profile-counter.glitch.me/carobarreirov/count.svg)
+```
