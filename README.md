@@ -17,10 +17,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=DB979F)
 ![Express](https://img.shields.io/badge/-Express.js-000?&logo=Express&logoColor=DB979F)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&logoColor=DB979F)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure&logoColor=DB979F)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=DB979F)
-
-<br>
+</br>
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=DB979F)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=DB979F)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=DB979F)
