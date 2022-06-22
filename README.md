@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Caro Barreiro
+# Hello there. I'm Caro Barreiro
 <p align="center">
 <a href="https://github.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="caro barreiro" height="20" width="20" /></a>
 <a href="https://twitter.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="caro barreiro" height="20" width="20" /></a>
@@ -36,3 +36,4 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
+[<img src="https://github-readme-stats.vercel.app/api?username=carobarreirov&show_icons=true&line_height=30&include_all_commits=true" />](https://github.com/carobarreirov)
