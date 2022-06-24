@@ -1,11 +1,18 @@
 <div align="center">
   
-# Hello there. I'm Caro Barreiro
+# Hello there.
   
 <a href="https://github.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="caro barreiro" height="20" width="20" /></a>
 <a href="https://twitter.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="caro barreiro" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/carobarreirov/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caro barreiro" height="20" width="20" background-color="#BF656A"/></a>
 
+  
+### I'm Caro Barreiro
+Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
+  
+ 🔭 I’m currently working as a Solution Architect at Red Hat Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits. 
+💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. 
+📫 Reach me at cbv@mit.edu
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FAF4F8&color=BF656A)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FAF4F8&color=BF656A)
@@ -29,16 +36,5 @@
 [![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&title_color=DB979F&icon_color=CF6168)](https://github.com/carobarreirov/github-readme-stats)
   
  </div>
- 
- - 🔭 I’m currently working ...
-  - as Solution Architect @RedHat
-  - as course leader and learning facilitator @MITxPro Coding Certificate
-  - as academic expert for @Ubitsdev
-  - as freelance PM and Consultant
-- 💬 Ask me about ...
-  - Web Development
-  - Agile and PM practices
-- 📫 How to reach me: 
-  - cbv@mit.edu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0,0,5,29" />
