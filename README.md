@@ -1,14 +1,12 @@
 <div align="center">
   
-# Hello there.
+# Hello there. I'm Caro Barreiro.
 
 [![GitHub followers](https://img.shields.io/github/followers/carobarreirov?label=GitHub&logoColor=BF656A&color=FAF4F8&style=social)](https://github.com/carobarreirov)
 [![Twitter Follow](https://img.shields.io/twitter/follow/carobarreirov?logoColor=BF656A&style=social)](https://twitter.com/carobarreirov)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCi9A7tCwNelhMpZJoI4XM6g?style=social&color=FFFFFF&logoColor=BF656A)](https://www.youtube.com/channel/UCi9A7tCwNelhMpZJoI4XM6g)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?social&logo=linkedin&color=FFFFFF&logoColor=BF656A)](https://www.linkedin.com/in/carobarreirov/)
 
-  
-### I'm Caro Barreiro
 Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
   
 🔭 I’m currently working as a Solution Architect at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=black&color=white)
@@ -40,5 +38,13 @@ Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0,0,5,29" />
 
- </div>
+</div>
+
+<details>
+<summary> :graduation cap: Education and Certificates </summary>
+- Cloud and DevOps MIT certificate
+- Leading Digital Transformation MIT certificate
+- Project Management Specialist
+- Digital Animation Engineer
+</details>
 
