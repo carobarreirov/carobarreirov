@@ -37,7 +37,9 @@ Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=DB979F)
 
 [![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&title_color=DB979F&icon_color=CF6168)](https://github.com/carobarreirov/github-readme-stats)
-  
- </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0,0,5,29" />
+
+ </div>
+
