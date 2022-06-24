@@ -11,10 +11,10 @@
 ### I'm Caro Barreiro
 Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
   
-- 🔭 I’m currently working as a Solution Architect at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
-Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits. 
-- 💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. </br>
-- 📫 Reach me at cbv@mit.edu
+🔭 I’m currently working as a Solution Architect at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits.  </br>
+💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. </br>
+📫 Reach me at cbv@mit.edu
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FAF4F8&color=BF656A)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FAF4F8&color=BF656A)
@@ -37,7 +37,6 @@ Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=DB979F)
 
 [![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&title_color=DB979F&icon_color=CF6168)](https://github.com/carobarreirov/github-readme-stats)
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0,0,5,29" />
 
