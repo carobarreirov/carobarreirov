@@ -11,10 +11,10 @@
 ### I'm Caro Barreiro
 Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
   
- 🔭 I’m currently working as a Solution Architect at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
-Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits. </br>
-💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. </br>
-📫 Reach me at cbv@mit.edu
+- 🔭 I’m currently working as a Solution Architect at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits. 
+- 💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. </br>
+- 📫 Reach me at cbv@mit.edu
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FAF4F8&color=BF656A)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FAF4F8&color=BF656A)
