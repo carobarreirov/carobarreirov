@@ -33,7 +33,7 @@ Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN 
   
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=DB979F)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=DB979F)
-![OpenShift](https://img.shields.io/badge/-Openshift-000?&logo=Openshift&logoColor=DB979F)
+![OpenShift](https://img.shields.io/badge/-Openshift-000?&logo=Red-Hat-Openshift&logoColor=DB979F)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=DB979F)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=DB979F)
 
