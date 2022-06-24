@@ -1,20 +1,7 @@
-<style>
-a:link {
-  color: #BF656A;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #DB979F;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
 <div align="center">
   
 # Hello there. I'm Caro Barreiro.
-<a href="https://carobarreirov.github.io/" target="_blank">carobarreirov.github.io</a>
+<a href="https://carobarreirov.github.io/" target="_blank" style="color: #BF656A">carobarreirov.github.io</a>
 
 [![GitHub followers](https://img.shields.io/github/followers/carobarreirov?label=GitHub&logoColor=BF656A&color=FAF4F8&style=social)](https://github.com/carobarreirov)
 [![Twitter Follow](https://img.shields.io/twitter/follow/carobarreirov?logoColor=BF656A&style=social)](https://twitter.com/carobarreirov)
