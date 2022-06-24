@@ -36,15 +36,15 @@ Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN 
 
 [![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&title_color=DB979F&icon_color=CF6168)](https://github.com/carobarreirov/github-readme-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0,0,5,29" />
-
 </div>
 
 <details>
-<summary> :graduation cap: Education and Certificates </summary>
-- Cloud and DevOps MIT certificate
-- Leading Digital Transformation MIT certificate
-- Project Management Specialist
-- Digital Animation Engineer
+<summary> 🎓 Education and Certificates </summary>
+ Cloud and DevOps MIT certificate
+ Leading Digital Transformation MIT certificate
+ Project Management Specialist
+ NSLS member
+ Digital Animation Engineer
 </details>
 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0,0,5,29" /> </div>
