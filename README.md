@@ -4,13 +4,15 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/carobarreirov?label=GitHub&logoColor=BF656A&color=FAF4F8&style=social)](https://github.com/carobarreirov)
 [![Twitter Follow](https://img.shields.io/twitter/follow/carobarreirov?logoColor=BF656A&style=social)](https://twitter.com/carobarreirov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?social&logo=linkedin&logoColor=BF656A)](https://www.linkedin.com/in/carobarreirov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?social&logo=linkedin&color=BF656A)](https://www.linkedin.com/in/carobarreirov/)
 
   
 ### I'm Caro Barreiro
 Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
   
- 🔭 I’m currently working as a Solution Architect at Red Hat Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits. 
+ 🔭 I’m currently working as a Solution Architect at 
+https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white  
+Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits. 
 💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. 
 📫 Reach me at cbv@mit.edu
 
