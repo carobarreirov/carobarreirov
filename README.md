@@ -4,8 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/carobarreirov?label=GitHub&logoColor=BF656A&color=FAF4F8&style=social)](https://github.com/carobarreirov)
 [![Twitter Follow](https://img.shields.io/twitter/follow/carobarreirov?logoColor=BF656A&style=social)](https://twitter.com/carobarreirov)
-[![Twitter](https://img.shields.io/badge/twitter?logoColor=BF656A&style=for-the-badge)](https://twitter.com/carobarreirov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carobarreirov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?social&logo=linkedin&logoColor=BF656A)](https://www.linkedin.com/in/carobarreirov/)
 
   
 ### I'm Caro Barreiro
