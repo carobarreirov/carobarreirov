@@ -12,8 +12,8 @@
 Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
   
  🔭 I’m currently working as a Solution Architect at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
-Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits. 
-💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. 
+Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits. </br>
+💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. </br>
 📫 Reach me at cbv@mit.edu
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FAF4F8&color=BF656A)
@@ -33,7 +33,6 @@ Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN 
   
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=DB979F)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=DB979F)
-![OpenShift](https://img.shields.io/badge/-Openshift-000?&logo=Red-Hat-Openshift&logoColor=DB979F)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=DB979F)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=DB979F)
 
