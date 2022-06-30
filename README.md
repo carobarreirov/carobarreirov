@@ -11,7 +11,7 @@
 Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
   
 🔭 I’m currently working as a Solution Architect at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=black&color=white)
-Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Codgin Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits.  </br>
+Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Coding Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits.  </br>
 💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. </br>
 📫 Reach me at cbv@mit.edu
 
