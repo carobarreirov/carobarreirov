@@ -3,7 +3,7 @@
 # Hello there. I'm Caro Barreiro.
 [carobarreirov.github.io](https://carobarreirov.github.io/) 
 <br>
-[![Total Visitors](https://api.visitorbadge.io/api/visitors?path=carobarreirov&label=Visitors&labelColor=%23faf4f8&countColor=%23bf656a&style=plastic)](https://visitorbadge.io/status?path=carobarreirov)
+[![Total](https://api.visitorbadge.io/api/visitors?path=carobarreirov&label=Visitors&labelColor=%23faf4f8&countColor=%23bf656a&style=plastic)](https://visitorbadge.io/status?path=carobarreirov)
 [![Visitors Today](https://api.visitorbadge.io/api/daily?path=carobarreirov&label=Visitors&labelColor=%23faf4f8&countColor=%23bf656a&style=plastic)](https://visitorbadge.io/status?path=carobarreirov)
 <br>
 
