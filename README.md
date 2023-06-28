@@ -1,7 +1,8 @@
 <div align="center">
   
 # Hello there. I'm Caro Barreiro.
-[carobarreirov.github.io](https://carobarreirov.github.io/)
+[carobarreirov.github.io](https://carobarreirov.github.io/) 
+<br>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=carobarreirov&label=Visitors&labelColor=%23faf4f8&countColor=%23bf656a)
 <br>
 
