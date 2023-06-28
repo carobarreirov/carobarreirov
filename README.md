@@ -2,12 +2,13 @@
   
 # Hello there. I'm Caro Barreiro.
 [carobarreirov.github.io](https://carobarreirov.github.io/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=carobarreirov&label=Visitors&labelColor=%23faf4f8&countColor=%23bf656a)
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5/connections/carobarreirov?social&logo=linkedin&color=FFFFFF&logoColor=BF656A)](https://www.linkedin.com/in/carobarreirov/)
 [![GitHub followers](https://img.shields.io/github/followers/carobarreirov?label=GitHub&logoColor=BF656A&color=FAF4F8&style=social)](https://github.com/carobarreirov)
 [![Twitter Follow](https://img.shields.io/twitter/follow/carobarreirov?logoColor=BF656A&style=social)](https://twitter.com/carobarreirov)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCi9A7tCwNelhMpZJoI4XM6g?style=social&color=FFFFFF&logoColor=BF656A)](https://www.youtube.com/channel/UCi9A7tCwNelhMpZJoI4XM6g)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=carobarreirov&label=Visitors&labelColor=%23faf4f8&countColor=%23bf656a)
 
 
 Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
