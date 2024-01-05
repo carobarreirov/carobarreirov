@@ -15,9 +15,10 @@
 
 Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
   
-🔭 I’m currently working as a Solution Architect at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=black&color=white)
-Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN Coding Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits.  </br>
-💬 Ask me about Web Development, Open and Agile practices for software development and agile project management. </br>
+🔭 I’m currently working as a Senior Consultant: specializing in Agility, Transformation, and Strategy at Opinno Latam. 
+👩‍💻 I'm Managing Director of Beautiful Patterns, an MIT initiative for STEM education for women.
+👩‍🏫 I'm a learning facilitator and course leader for the MITxPro Fullstack MERN Coding Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits.  </br>
+💬 Ask me about Web Development, Open and Agile practices for software development, and agile project management. </br>
 📫 Reach me at cbv@mit.edu
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FAF4F8&color=BF656A)
@@ -43,16 +44,5 @@ Mexico, a learning facilitator and course leader for the MITxPro Fullstack MERN 
 [![caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobarreirov&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&title_color=DB979F&icon_color=CF6168)](https://github.com/carobarreirov/github-readme-stats)
 
 </div>
-
-<details>
-<summary> 🎓 Education and Certificates </summary>
-  
- - Cloud and DevOps MIT certificate
- - Leading Digital Transformation MIT certificate
- - Project Management Specialist
- - NSLS member
- - Digital Animation Engineer
-
-</details>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&customColorList=0,0,5,29" /> </div>
