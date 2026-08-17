@@ -11,10 +11,6 @@
 
 Passionate about Education and Technology guided by themes of Leadership and personal growth: I seek to be a model of inspiration and motivation for women who want to make an impact through STEM.
   
-🔭 I’m currently working as a Senior Consultant: specializing in Agility, Transformation, and Strategy at Opinno Latam. 
-👩‍💻 I'm Managing Director of Beautiful Patterns, an MIT initiative for STEM education for women.
-👩‍🏫 I'm a learning facilitator and course leader for the MITxPro Fullstack MERN Coding Certificate with Emeritus and academic expert designing and developing tech courses content por Ubits.  </br>
-💬 Ask me about Web Development, Open and Agile practices for software development, and agile project management. </br>
 📫 Reach me at cbv@mit.edu
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FAF4F8&color=BF656A)
