@@ -2,10 +2,6 @@
   
 # Hello there. I'm Caro Barreiro.
 [carobarreirov.github.io](https://carobarreirov.github.io/) 
-<br>
-[![Total](https://api.visitorbadge.io/api/visitors?path=carobarreirov&label=Visitors&labelColor=%23faf4f8&countColor=%23bf656a&style=plastic)](https://visitorbadge.io/status?path=carobarreirov)
-[![Visitors Today](https://api.visitorbadge.io/api/daily?path=carobarreirov&label=Visitors&labelColor=%23faf4f8&countColor=%23bf656a&style=plastic)](https://visitorbadge.io/status?path=carobarreirov)
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5/connections/carobarreirov?social&logo=linkedin&color=FFFFFF&logoColor=BF656A)](https://www.linkedin.com/in/carobarreirov/)
 [![GitHub followers](https://img.shields.io/github/followers/carobarreirov?label=GitHub&logoColor=BF656A&color=FAF4F8&style=social)](https://github.com/carobarreirov)
